@@ -1,6 +1,6 @@
 ---
 layout: default
----
+l   
 
 # Contributing to Open Source Guides
 
